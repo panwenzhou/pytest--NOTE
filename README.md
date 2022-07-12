@@ -37,9 +37,9 @@
 
 
 
-![image-20200703142205160](pytest测试框架.assets/image-20200703142205160.png)
+![image-20200703142205160](pytest.assets/image-20200703142205160.png)
 
-![image-20200703142337272](pytest测试框架.assets/image-20200703142337272.png)
+![image-20200703142337272](pytest.assets/image-20200703142337272.png)
 
 ​		
 
