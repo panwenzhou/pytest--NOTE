@@ -145,7 +145,7 @@ pytest的配置文件有固定的三个名称: pytest.ini  tox.ini    setup.cfg 
 
 ```
 [pytest]   #  标识当前配置文件是pytest的配置文件
-addopts = -s -v  # 标识pytest执行时增加的参数
+addopts = -s -v  --html=report/report.html # 标识pytest执行时增加的参数
 testpaths = ./scripts  # 匹配搜索的目录
 python_files = test_*.py # 匹配测试文件
 python_classes = Test*  # 匹配测试类
