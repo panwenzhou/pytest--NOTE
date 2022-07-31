@@ -81,7 +81,7 @@ class TestADD:  # 定义的类名必须是以Test开头
           # assert result == 3    判断相等
           # assert result != 4    判断不相等
           # assert result    # 判断为True
-          #assert False        # 判断为False
+          # assert False        # 判断为False
           # assert "a" in "abc" # 判断包含
           # assert "a" not in "abc"  # 判断不包含
           # assert result is None
@@ -131,7 +131,7 @@ class TestADD:  # 定义的类名必须是以Test开头
 
   * 类级别初始化的方法:   def setup_class(self):    
 
-  * 类级别销毁的方法:  def teardown_class(slef):
+  * 类级别销毁的方法:  def teardown_class(self):
 
     方法名称固定，不能修改。
 
